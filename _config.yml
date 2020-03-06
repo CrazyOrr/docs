@@ -51,7 +51,7 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-exclude: ["package.json", "package-lock.json", "node_modules", "Gemfile", "Gemfile.lock"]
+exclude: ["package.json", "package-lock.json", "node_modules", "Gemfile", "Gemfile.lock", "firebase.json"]
 
 collections:
   projects:
