@@ -18,6 +18,7 @@ jobs:
       - name: Build
         run: |
           gem install jekyll bundler
+          [ -f Gemfile ] && bundle install
           JEKYLL_ENV=production bundle exec jekyll build
       - name: Archive Production Artifact
         uses: actions/upload-artifact@master
