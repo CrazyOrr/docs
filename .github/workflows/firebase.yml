@@ -11,6 +11,10 @@ jobs:
     steps:
       - name: Checkout Repo
         uses: actions/checkout@master
+      - name: Setup Ruby
+        uses: actions/setup-ruby@v1
+        with:
+          ruby-version: '2.6'
       - name: Build
         run: |
           [ -f Gemfile ] && bundle install
