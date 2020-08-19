@@ -1,8 +1,8 @@
 ---
-layout: default
-name: Interest Calculator
+layout: page
+title: 利息计算器
 ---
-
-Interest Calculator
-- [User Agreement](/interest-calculator/user-agreement.html)
-- [Privacy Policy](/interest-calculator/privacy-policy.html)
+中文
+- [介绍](/interest-calculator/introduction.html)
+- [用户协议](/interest-calculator/user-agreement.html)
+- [隐私政策](/interest-calculator/privacy-policy.html)

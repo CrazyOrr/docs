@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: doc
 title: Privacy Policy
+lang: en
 ---
 **Privacy Policy**
 

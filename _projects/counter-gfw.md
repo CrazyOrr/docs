@@ -1,8 +1,7 @@
 ---
-layout: default
-name: 科学上网
+layout: page
+title: 科学上网
 ---
-# 科学上网
 ![防火长城](https://upload-images.jianshu.io/upload_images/5979866-02263a38e7041b95.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/348)
 
 ## 1 什么是“科学上网”

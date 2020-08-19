@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: doc
 title: Terms & Conditions
+lang: en
 ---
 **Terms & Conditions**
 

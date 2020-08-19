@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Acknowledgement
+lang: en
 ---
 #### Data
 - [Half Your Plate](https://www.halfyourplate.ca/)

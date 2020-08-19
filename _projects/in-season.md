@@ -1,15 +1,14 @@
 ---
-layout: default
-name: In Season
+layout: page
+title: 应季
 ---
-
-In Season
+English
 - [Terms & Conditions](/in-season/en/terms-and-conditions.html)
 - [Privacy Policy](/in-season/en/privacy-policy.html)
 - [Introduction](/in-season/en/introduction.html)
 - [Acknowledgement](/in-season/en/acknowledgement.html)
 
-应季
+中文
 - [用户协议](/in-season/zh/terms-and-conditions.html)
 - [隐私政策](/in-season/zh/privacy-policy.html)
 - [介绍](/in-season/zh/introduction.html)
