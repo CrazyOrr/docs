@@ -3,7 +3,7 @@ layout: page
 title: In Season
 lang: en
 ---
-![](https://upload-images.jianshu.io/upload_images/5979866-636710585a9709a2.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](/assets/images/backdrop.jpg)
 Photo by **[Ella Olsson](https://www.pexels.com/@ella-olsson-572949?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)** from **[Pexels](https://www.pexels.com/photo/flat-lay-photography-of-vegetable-salad-on-plate-1640777/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)**
 
 As globalization and technology develop rapidly, people can get access to most of fresh agricultural products all year around. 
