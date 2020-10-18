@@ -2,7 +2,7 @@
 layout: page
 title: 科学上网
 ---
-![防火长城](https://upload-images.jianshu.io/upload_images/5979866-02263a38e7041b95.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/348)
+![防火长城](https://note.youdao.com/yws/api/personal/file/3DB99DB4DB3A45E6A78299C411EF1562?method=download&shareKey=646764c63655e4584f79383ed482309f)
 
 ## 1 什么是“科学上网”
 GFW(Great Firewall)，防火长城，在中国大陆屏蔽了[Google](https://google.com/)、[Wikipedia](https://www.wikipedia.org/)等一系列国际网站。
