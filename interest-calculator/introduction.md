@@ -29,4 +29,10 @@ title: 利息计算器
 ![支付宝小程序二维码](https://note.youdao.com/yws/api/personal/file/DA417F5833E84C69BDBE1BCDE9678682?method=download&shareKey=646764c63655e4584f79383ed482309f)
 
 # 4. 网页版
-[地址](https://interest-calculator-99afd.web.app/)
+- [中国大陆](https://upbeat-pike-7d5622.netlify.app/)
+
+![二维码](https://note.youdao.com/yws/api/personal/file/9B1F547DCD85465D94BCA7523FBB03E2?method=download&shareKey=646764c63655e4584f79383ed482309f)
+
+- [国际](https://interest-calculator-99afd.web.app/)
+
+![二维码](https://note.youdao.com/yws/api/personal/file/17FFA50B435F48DD85A017A29FA9D7B0?method=download&shareKey=646764c63655e4584f79383ed482309f)
