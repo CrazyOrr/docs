@@ -10,7 +10,13 @@ title: 利息计算器
 应用市场下载：
 - [Google Play](https://play.google.com/store/apps/details?id=com.github.crazyorr.interestcalculator)
 - [应用宝](https://sj.qq.com/myapp/detail.htm?apkName=com.github.crazyorr.interestcalculator)
+
+![二维码](https://note.youdao.com/yws/api/personal/file/EB4D5D0964C44BFAAD0AC689710BD968?method=download&shareKey=646764c63655e4584f79383ed482309f)
+
 - [小米应用商店](http://app.mi.com/details?id=com.github.crazyorr.interestcalculator)
+
+![二维码](https://note.youdao.com/yws/api/personal/file/6A3308A6E2A24DAF887810CB3596E06A?method=download&shareKey=646764c63655e4584f79383ed482309f)
+
 - [豌豆荚](https://www.wandoujia.com/apps/7025399)
 - [百度手机助手](https://shouji.baidu.com/software/26854290.html)
 
