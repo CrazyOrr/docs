@@ -1,4 +1,4 @@
 ---
 layout: doc
 ---
-[Sitemap](sitemap.xml)
+[Sitemap]({% link sitemap.xml %})
