@@ -1,6 +1,4 @@
 ---
-layout: default
+layout: doc
 ---
-{% for project in site.projects %}
-  - [{{ project.title }}]({{ project.url }})
-{% endfor %}
+[Sitemap](sitemap.xml)

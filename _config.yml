@@ -18,14 +18,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Outside the Wall
+title: Docs
 author: Lei Wang
 email: wanglei021212@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  When it all falls down.
+description: All the documents.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-lang: zh
+url: "https://www.yolo.blue" # the base hostname & protocol for your site, e.g. http://example.com
+lang: en
 google_analytics: G-F2LSE5Y95Q
 github_username: CrazyOrr
 twitter_username: CrazyOrr
@@ -33,6 +32,7 @@ twitter_username: CrazyOrr
 # Build settings
 theme: minima
 plugins:
+  - jekyll-sitemap
   - jekyll-feed
 
 # Exclude from processing.
@@ -54,8 +54,4 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-exclude: ["package.json", "package-lock.json", "node_modules", "Gemfile", "Gemfile.lock", "firebase.json"]
-
-collections:
-  projects:
-    output: true
+exclude: ["package.json", "package-lock.json", "node_modules", "Gemfile", "Gemfile.lock", "firebase.json", "build_deploy.bat"]
